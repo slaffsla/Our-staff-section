@@ -1,5 +1,5 @@
 # Our-staff-section
-Responsive design - css stuff
+Responsive design - css trickery
 
 See in action:
 https://our-staff-section.netlify.app/
